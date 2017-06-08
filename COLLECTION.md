@@ -1,8 +1,54 @@
-# Tea Catalog
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Badges](./BADGES.md)
+
+-----
+
+# Tea Collection
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 104 | Regular Tea        | [Oolong]    | [Da Hong Pao (Big Red Robe)]| [China]     | Oolong                      |
+| 146 | -                  | [Green]     | [Anji White Tea]            | [China]     | Green tea                   |
+| 145 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Green tea                   |
+| 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
+| 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
+| 142 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Green tea                   |
+| 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
+| 140 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Cocoa                       |
+| 139 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Ginger                      |
+| 138 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Lychee                      |
+| 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
+| 136 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
+| 135 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Cornflower, Mint            |
+| 134 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Lavender                    |
+| 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
+| 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
+| 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
+| 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
+| 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
+| 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
+| 127 | [Rabbit Hole]      | [Black]     | [Green Power]             | -           | Organic rice                  |
+| 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
+| 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
+| 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
+| 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
+| 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
+| 121 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
+| 120 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Cream                       |
+| 119 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Black tea                   |
+| 118 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Sudanese rose petals        |
+| 117 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Chocolate, Cardamom         |
+| 116 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Caramel                     |
+| 115 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Vanilla                     |
+| 114 | [Tealeaves]        | [Black]     | [Black Macadamia]           | [China]     | Macadamia				           |		
+| 113 | [Black Dragon]     | [Green]     | [Hawthorn Green Tea]        | [Russia]    | Hawthorn                    |
+| 112 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Black tea                   |
+| 111 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Butterfly-pea flower        |
+| 110 | [Black Dragon]     | [Green]     | [Wild Rose Green Tea]       | [Russia]    | Wild rose                   |
+| 109 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Bergamot                    |
+| 108 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Caramel, Macadamia          |
+| 107 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Black tea                   |
+| 106 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Cinnamon, Chicory, Ginger   |
+| 105 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Peppermint, Orange, Mint    |
+| 104 | [Regular Tea]      | [Oolong]    | [Da Hong Pao]               | [China]     | Oolong tea                  |
 | 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Black tea                   |
 | 102 | [Twinings]         | [Herbal]    | [Spiced Apple Infusion]     | -           | Camomile, Apple, Cinnamon   |
 | 101 | [Tealyra]          | [Black]     | [Cream Earl Grey]           | -           | Bergamot, Cornflower        |
@@ -25,7 +71,7 @@
 | 084 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                   |
 | 083 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey                |
 | 082 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                   |
-| 081 | [Adore Tea]        | [Black]     | [Banana Split]	     	       | [China]     | Banana, Chocolate           |
+| 081 | [Adore Tea]        | [Black]     | [Banana Split]	       	     | [China]     | Banana, Chocolate           |
 | 080 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	   | [China]     | Orange, Chocolate           |
 | 079 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                   |
 | 078 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                  |
@@ -96,7 +142,7 @@
 | 013 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice          |
 | 012 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant                |
 | 011 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime                 |
-| 010 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower            |
+| 010 | [Golden Sail]      | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower            |
 | 009 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                   |
 | 008 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                     |
 | 007 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup      |
@@ -110,29 +156,42 @@
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
+[Black Dragon]: http://www.china-tea.ru
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
+[Disney]: http://www.disney.com.au
+[Dragon Leaf]: http://www.dragon-leaf.com
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
+[Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
+[MightyLeaf]: http://www.mightyleaf.com
+[Montea Cristo]: http://www.monteacristo.com.au
+[Mrs Oldbucks]: http://www.mrsoldbucks.com.au/tea-black
+[Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
+[Novyi Krym]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
+[Princess Java]: http://www.java-tea.ru
 [Rabbit Hole]: https://therabbithole.com.au
+[Regular Tea]: http://www.ckmc.cn
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
-[Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
+[Skinny Me Tea]: https://www.skinnymetea.com.au
+[Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
+[Taylors]: https://www.taylorsofharrogate.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -140,8 +199,51 @@
 [Twinings]: http://www.twiningsusa.com
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
+[Jia Ming Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
+[Velvety Vanilla Chai Tea]: https://gewurzhaus.com.au/product/velvety-vanilla-chai-tea-80g-l
+[Organic Easter Bun Tea]: https://gewurzhaus.com.au/product/easter-bun-tea
+[Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
+[Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
+[Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
+[Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss
+[Lychee Black Tea]: http://www.monteacristo.com.au/product/lychee
+[Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
+[Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
+[Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers
+[Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
+[8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
+[Alishan Tea]: http://yuyupas.com/products/1
+[Nettle Tea]: http://adoretea.com.au/nettle.html
+[Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
+[Xiang Lapsang Souchong]: https://en.wikipedia.org/wiki/Lapsang_souchong
+[Green Power]: https://therabbithole.com.au/products/green-power
+[Blood Orange]: http://www.monteacristo.com.au/product/blood-orange
+[Official Unbirthday Tea]: https://www.amazon.com/Disney-Parks-Wonderland-Official-Unbirthday/dp/B005TMLTJK
+[Green Tea Tropical]: http://www.mightyleaf.com/green-tea-tropical.html
+[Banana Bake]: https://www.t2tea.com/en/au/tea/black-tea/banana-bake-loose-leaf-gift-cube-T125AE106.html
+[Cherry Ripe]: http://adoretea.com.au/Black/Flavoured-Black/cherry-ripe.html
+[Roseship Filler]: http://crimeantea.ru/news/portfolio/shipovnik-nalivnoj-50g/?id=3694
+[Devonshire Cream]: http://www.tealeaves.com.au/black-devonshire-cream/w1/i1007151
+[Bushfire Caravan]: http://www.mrsoldbucks.com.au/tea-black
+[Carcade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
+[Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
+[Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
+[Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
+[Black Macadamia]: http://www.tealeaves.com.au/black-macadamia/w1/i1007050/
+[Hawthorn Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=95&SECTION=1
+[Ceylon Orange Pekoe]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-ceylon-orange-pekoe-2g.html
+[Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
+[Wild Rose Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
+[Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
+[Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
+[Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
+[Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
+[Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane
+[Da Hong Pao]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 [Oriental Golden Crescent]: http://www.basilurtea.co.nz/product/golden-crescent
 [Spiced Apple Infusion]: https://www.woolworths.com.au/shop/browse/drinks/herbal-specialty-tea?name=twinings-spiced-apple-infusion-tea&productId=770735
 [Cream Earl Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
@@ -242,7 +344,6 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[Da Hong Pao (Big Red Robe)]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
@@ -270,8 +371,12 @@
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
+[Poland]: https://en.wikipedia.org/wiki/Poland
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
+[Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
+[Thailand]: https://en.wikipedia.org/wiki/Thailand
+[US]: https://en.wikipedia.org/wiki/United_States
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
